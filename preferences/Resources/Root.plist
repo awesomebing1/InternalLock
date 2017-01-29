@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>cell</key>
+				<string>PSGroupCell</string>
+				<key>label</key>
+				<string>InternalLock Preferences</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSEditTextCell</string>
+				<key>defaults</key>
+				<string>io.github.awesomebing1.internallock</string>
+				<key>placeholder</key>
+				<string>Hello,</string>
+				<key>default</key>
+				<string>Hello,</string>
+				<key>key</key>
+				<string>internalDeclaration</string>
+				<key>PostNotification</key>
+				<string>io.github.awesomebing1.internallock/ReloadPrefs</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSEditTextCell</string>
+				<key>defaults</key>
+				<string>io.github.awesomebing1.internallock</string>
+				<key>placeholder</key>
+				<string>configure me</string>
+				<key>default</key>
+				<string>configure me</string>
+				<key>key</key>
+				<string>internalInstructions</string>
+				<key>PostNotification</key>
+				<string>io.github.awesomebing1.internallock/ReloadPrefs</string>
+			</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSEditTextCell</string>
+				<key>defaults</key>
+				<string>io.github.awesomebing1.internallock</string>
+				<key>placeholder</key>
+				<string>in settings!</string>
+				<key>default</key>
+				<string>in settings!</string>
+				<key>key</key>
+				<string>internalContact</string>
+				<key>PostNotification</key>
+				<string>io.github.awesomebing1.internallock/ReloadPrefs</string>
+			</dict>
+			<dict>
+	<key>cell</key>
+	<string>PSGroupCell</string>
+</dict>
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<true/>
+				<key>defaults</key>
+				<string>io.github.awesomebing1.internallock</string>
+				<key>key</key>
+				<string>isEnabled</string>
+				<key>label</key>
+				<string>Enabled</string>
+				<key>PostNotification</key>
+				<string>io.github.awesomebing1.internallock/ReloadPrefs</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>InternalLock</string>
+	</dict>
+</plist>

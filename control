@@ -1,0 +1,9 @@
+Package: io.github.awesomebing1.InternalLock
+Name: InternalLock
+Depends: mobilesubstrate, firmware (>= 7.0), ws.hbang.common (>= 1.2), preferenceloader
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Apple's internal contact information on your lock screen.
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: John Smith <awesomebing1@gmail.com>
+Section: Tweaks
