@@ -14,7 +14,7 @@
 				<key>cell</key>
 				<string>PSEditTextCell</string>
 				<key>defaults</key>
-				<string>io.github.awesomebing1.internallock</string>
+				<string>io.github.spotlighishere.internallock6</string>
 				<key>placeholder</key>
 				<string>Hello,</string>
 				<key>default</key>
@@ -22,13 +22,13 @@
 				<key>key</key>
 				<string>internalDeclaration</string>
 				<key>PostNotification</key>
-				<string>io.github.awesomebing1.internallock/ReloadPrefs</string>
+				<string>io.github.spotlighishere.internallock6/ReloadPrefs</string>
 			</dict>
 			<dict>
 				<key>cell</key>
 				<string>PSEditTextCell</string>
 				<key>defaults</key>
-				<string>io.github.awesomebing1.internallock</string>
+				<string>io.github.spotlighishere.internallock6</string>
 				<key>placeholder</key>
 				<string>configure me</string>
 				<key>default</key>
@@ -36,13 +36,13 @@
 				<key>key</key>
 				<string>internalInstructions</string>
 				<key>PostNotification</key>
-				<string>io.github.awesomebing1.internallock/ReloadPrefs</string>
+				<string>io.github.spotlighishere.internallock6/ReloadPrefs</string>
 			</dict>
 			<dict>
 				<key>cell</key>
 				<string>PSEditTextCell</string>
 				<key>defaults</key>
-				<string>io.github.awesomebing1.internallock</string>
+				<string>io.github.spotlighishere.internallock6</string>
 				<key>placeholder</key>
 				<string>in settings!</string>
 				<key>default</key>
@@ -50,7 +50,7 @@
 				<key>key</key>
 				<string>internalContact</string>
 				<key>PostNotification</key>
-				<string>io.github.awesomebing1.internallock/ReloadPrefs</string>
+				<string>io.github.spotlighishere.internallock6/ReloadPrefs</string>
 			</dict>
 			<dict>
 	<key>cell</key>
@@ -62,13 +62,13 @@
 				<key>default</key>
 				<true/>
 				<key>defaults</key>
-				<string>io.github.awesomebing1.internallock</string>
+				<string>io.github.spotlighishere.internallock6</string>
 				<key>key</key>
 				<string>isEnabled</string>
 				<key>label</key>
 				<string>Enabled</string>
 				<key>PostNotification</key>
-				<string>io.github.awesomebing1.internallock/ReloadPrefs</string>
+				<string>io.github.spotlighishere.internallock6/ReloadPrefs</string>
 			</dict>
 		</array>
 		<key>title</key>

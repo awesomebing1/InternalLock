@@ -1,6 +1,6 @@
 include $(THEOS)/makefiles/common.mk
 
-SDKVERSION = 9.2
+TARGET = iphone::6.1:6.1
 BUNDLE_NAME = InternalLock
 InternalLock_FILES = JOSRootListController.m
 InternalLock_INSTALL_PATH = /Library/PreferenceBundles
